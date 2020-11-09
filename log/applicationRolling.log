@@ -1,0 +1,6 @@
+Main.java Main.buildGUI(Main.java:146) 0    [AWT-EventQueue-0] INFO  Main  - Enter in method buildGUI
+Main.java Main.init(Main.java:31) 519  [AWT-EventQueue-0] INFO  Main  - Initialize model
+Main.java Main.init(Main.java:45) 533  [AWT-EventQueue-0] INFO  Main  - Initialize lists
+Main.java Main.init(Main.java:48) 534  [AWT-EventQueue-0] INFO  Main  - Initialize radios
+Main.java Main.init(Main.java:80) 551  [AWT-EventQueue-0] INFO  Main  - Add remove and add button
+Main.java Main.init(Main.java:86) 553  [AWT-EventQueue-0] INFO  Main  - Intialize mediator
